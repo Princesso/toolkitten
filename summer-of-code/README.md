@@ -104,7 +104,7 @@ Participants typically form groups of about 2-6 individuals, take out their lapt
 
 ## Positive energy
 
-Hackathons have gotten a bad rap because of some that have an unhealthy, competitive structure, and for setting unrealistic expectations. Don’t participate in hackathon with that mindset and you’ll be on the right track. Here are the goals to keep in mind:
+Hackathons have gotten a bad rap because of some that have an unhealthy, competitive structure, and for setting unrealistic expectations. Don’t participate in a hackathon with that mindset and you’ll be on the right track. Here are the goals to keep in mind:
 
 ## Strengthen the community that the hackathon is for
 
@@ -151,7 +151,7 @@ If you know what projects are going to be worked on at the event, the earlier yo
 
 ## Open Ended Hackathons
 
-Each hackathon will have an open ended category to allow for those with pre-existing ideas to work on them and attract teammates to them. It is the Stakeholder's responsiblity to ensure that the project is explained, there is a clear project question, and that resources are available e.g. datasets.
+Each hackathon will have an open ended category to allow for those with pre-existing ideas to work on them and attract team mates to them. It is the Stakeholder's responsiblity to ensure that the project is explained, there is a clear project question, and that resources are available e.g. datasets.
 
 ## Themed Hackathons
 
